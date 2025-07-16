@@ -1,3 +1,4 @@
 streamlit
 mecab-python3
 pandas
+janome
