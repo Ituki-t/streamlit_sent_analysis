@@ -11,3 +11,5 @@ pip install streamlit
 pip install mecab-python3
 pip install pandas
 ```
+### URL
+[https://appsentanalysisgit-rekpqr2elw3wgnr5j84f3e.streamlit.app/](https://appsentanalysisgit-rekpqr2elw3wgnr5j84f3e.streamlit.app/)
